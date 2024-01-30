@@ -94,7 +94,12 @@ function CompTerrainNonValid() {
                 <tr>
                     <td>Jean</td>
                     <td>P1</td>                               
-                    <td><p className='valid-btn'></p>Valider</td>                               
+                    <td><p className='valid-btn'>Valider</p></td>                               
+                </tr>
+                <tr>
+                    <td>Jean</td>
+                    <td>P1</td>                               
+                    <td><p className='valid-btn'>Valider</p></td>                               
                 </tr>
             </tbody>
         </table>
